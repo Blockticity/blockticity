@@ -44,6 +44,7 @@
 - Avalanche L1 (powered by AvaCloud)
 - XDC Apothem (gasless testnet MVP)
 - OneSource™ (custom RWA indexing engine)
+- 🔬 Advanced AI/ML modeling layer (trademark pending)
 
 ---
 
@@ -65,6 +66,8 @@
 - 🧪 Contributor to **ASTM D8558-24** — the first blockchain COA standard
 - 🤖 Accepted into **NVIDIA Inception + Plug and Play XDC Enterprise RWA Accelerator**
 - ⚡ Launching validator node sale with GoGoPool on Avalanche L1
+- 🧠 AI/ML insights engine in development for COA fraud detection, yield scoring, and canopy analysis (trademark pending)
+
 
 ---
 
