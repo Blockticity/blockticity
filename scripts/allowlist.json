@@ -1,0 +1,12 @@
+[
+  {
+    "wallet": "0x1234567890abcdef1234567890abcdef12345678",
+    "tokenId": 1001,
+    "claimed": false
+  },
+  {
+    "wallet": "0xabcdefabcdefabcdefabcdefabcdefabcdefabcd",
+    "tokenId": 1002,
+    "claimed": false
+  }
+]
