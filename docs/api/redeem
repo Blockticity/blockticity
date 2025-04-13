@@ -1,0 +1,20 @@
+---
+
+## 🎟️ `POST /api/redeem`
+
+**Description**: Redeems an unclaimed NFT tied to a specific user or product. Validates wallet address and checks allowlist status before returning claimable metadata.
+
+**Request Body**:
+```json
+{
+  "email": "user@example.com",
+  "wallet_address": "0x1234...abcd",
+  "sku": "PIA-ALPHA-001"
+}
+}
+```  
+{
+  "tokenId": 36401,
+  "claimed": false,
+  "metadataURI": "ipfs://Qm.../metadata.json"
+}
