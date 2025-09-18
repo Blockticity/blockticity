@@ -1,0 +1,5908 @@
+{
+  "timestamp": "2025-09-17T20:00:30.535Z",
+  "totalCOAs": 297,
+  "tested": 327,
+  "passed": 0,
+  "failed": 0,
+  "shortUrlResults": [
+    {
+      "url": "https://app.blockticity.ai/b0229059",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229059",
+      "expectedTokenId": 687723,
+      "timestamp": "2025-09-17T20:00:30.924Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229060",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229060",
+      "expectedTokenId": 687724,
+      "timestamp": "2025-09-17T20:00:30.923Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229061",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229061",
+      "expectedTokenId": 687725,
+      "timestamp": "2025-09-17T20:00:30.924Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229062",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229062",
+      "expectedTokenId": 687726,
+      "timestamp": "2025-09-17T20:00:30.923Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229063",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229063",
+      "expectedTokenId": 687727,
+      "timestamp": "2025-09-17T20:00:30.924Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229064",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229064",
+      "expectedTokenId": 687728,
+      "timestamp": "2025-09-17T20:00:30.922Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229065",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229065",
+      "expectedTokenId": 687729,
+      "timestamp": "2025-09-17T20:00:30.923Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229066",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229066",
+      "expectedTokenId": 687730,
+      "timestamp": "2025-09-17T20:00:30.923Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229067",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229067",
+      "expectedTokenId": 687731,
+      "timestamp": "2025-09-17T20:00:30.925Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229068",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229068",
+      "expectedTokenId": 687732,
+      "timestamp": "2025-09-17T20:00:30.923Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229069",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229069",
+      "expectedTokenId": 687733,
+      "timestamp": "2025-09-17T20:00:32.039Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229070",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229070",
+      "expectedTokenId": 687734,
+      "timestamp": "2025-09-17T20:00:32.021Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229071",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229071",
+      "expectedTokenId": 687735,
+      "timestamp": "2025-09-17T20:00:32.030Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229072",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229072",
+      "expectedTokenId": 687736,
+      "timestamp": "2025-09-17T20:00:32.057Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229073",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229073",
+      "expectedTokenId": 687737,
+      "timestamp": "2025-09-17T20:00:32.012Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229074",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229074",
+      "expectedTokenId": 687738,
+      "timestamp": "2025-09-17T20:00:32.024Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229075",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229075",
+      "expectedTokenId": 687739,
+      "timestamp": "2025-09-17T20:00:32.037Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229076",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229076",
+      "expectedTokenId": 687740,
+      "timestamp": "2025-09-17T20:00:32.031Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229077",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229077",
+      "expectedTokenId": 687741,
+      "timestamp": "2025-09-17T20:00:32.024Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229078",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229078",
+      "expectedTokenId": 687742,
+      "timestamp": "2025-09-17T20:00:32.032Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229079",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229079",
+      "expectedTokenId": 687743,
+      "timestamp": "2025-09-17T20:00:33.134Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229080",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229080",
+      "expectedTokenId": 687744,
+      "timestamp": "2025-09-17T20:00:33.170Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229081",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229081",
+      "expectedTokenId": 687745,
+      "timestamp": "2025-09-17T20:00:33.154Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229082",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229082",
+      "expectedTokenId": 687746,
+      "timestamp": "2025-09-17T20:00:33.165Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229083",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229083",
+      "expectedTokenId": 687747,
+      "timestamp": "2025-09-17T20:00:33.162Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229084",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229084",
+      "expectedTokenId": 687748,
+      "timestamp": "2025-09-17T20:00:33.173Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229085",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229085",
+      "expectedTokenId": 687749,
+      "timestamp": "2025-09-17T20:00:33.179Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229086",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229086",
+      "expectedTokenId": 687750,
+      "timestamp": "2025-09-17T20:00:33.169Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229087",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229087",
+      "expectedTokenId": 687751,
+      "timestamp": "2025-09-17T20:00:33.158Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229088",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229088",
+      "expectedTokenId": 687752,
+      "timestamp": "2025-09-17T20:00:33.166Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229089",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229089",
+      "expectedTokenId": 687753,
+      "timestamp": "2025-09-17T20:00:34.270Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229090",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229090",
+      "expectedTokenId": 687754,
+      "timestamp": "2025-09-17T20:00:34.278Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229091",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229091",
+      "expectedTokenId": 687755,
+      "timestamp": "2025-09-17T20:00:34.303Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229092",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229092",
+      "expectedTokenId": 687756,
+      "timestamp": "2025-09-17T20:00:34.399Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229093",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229093",
+      "expectedTokenId": 687757,
+      "timestamp": "2025-09-17T20:00:34.267Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229094",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229094",
+      "expectedTokenId": 687758,
+      "timestamp": "2025-09-17T20:00:34.264Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229095",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229095",
+      "expectedTokenId": 687759,
+      "timestamp": "2025-09-17T20:00:34.268Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229096",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229096",
+      "expectedTokenId": 687760,
+      "timestamp": "2025-09-17T20:00:34.274Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229097",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229097",
+      "expectedTokenId": 687761,
+      "timestamp": "2025-09-17T20:00:34.264Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229098",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229098",
+      "expectedTokenId": 687762,
+      "timestamp": "2025-09-17T20:00:34.271Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229099",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229099",
+      "expectedTokenId": 687763,
+      "timestamp": "2025-09-17T20:00:35.502Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229100",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229100",
+      "expectedTokenId": 687764,
+      "timestamp": "2025-09-17T20:00:35.484Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229101",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229101",
+      "expectedTokenId": 687765,
+      "timestamp": "2025-09-17T20:00:35.483Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229102",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229102",
+      "expectedTokenId": 687766,
+      "timestamp": "2025-09-17T20:00:35.486Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229103",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229103",
+      "expectedTokenId": 687767,
+      "timestamp": "2025-09-17T20:00:35.509Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229104",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229104",
+      "expectedTokenId": 687768,
+      "timestamp": "2025-09-17T20:00:35.621Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229105",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229105",
+      "expectedTokenId": 687769,
+      "timestamp": "2025-09-17T20:00:35.489Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229106",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229106",
+      "expectedTokenId": 687770,
+      "timestamp": "2025-09-17T20:00:35.491Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229107",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229107",
+      "expectedTokenId": 687771,
+      "timestamp": "2025-09-17T20:00:35.485Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229108",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229108",
+      "expectedTokenId": 687772,
+      "timestamp": "2025-09-17T20:00:35.519Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229109",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229109",
+      "expectedTokenId": 687773,
+      "timestamp": "2025-09-17T20:00:36.724Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229110",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229110",
+      "expectedTokenId": 687774,
+      "timestamp": "2025-09-17T20:00:36.741Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229111",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229111",
+      "expectedTokenId": 687775,
+      "timestamp": "2025-09-17T20:00:36.706Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229112",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229112",
+      "expectedTokenId": 687776,
+      "timestamp": "2025-09-17T20:00:36.719Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229113",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229113",
+      "expectedTokenId": 687777,
+      "timestamp": "2025-09-17T20:00:36.710Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229114",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229114",
+      "expectedTokenId": 687778,
+      "timestamp": "2025-09-17T20:00:36.709Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229115",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229115",
+      "expectedTokenId": 687779,
+      "timestamp": "2025-09-17T20:00:36.710Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229116",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229116",
+      "expectedTokenId": 687780,
+      "timestamp": "2025-09-17T20:00:36.757Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229117",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229117",
+      "expectedTokenId": 687781,
+      "timestamp": "2025-09-17T20:00:36.713Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229118",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229118",
+      "expectedTokenId": 687782,
+      "timestamp": "2025-09-17T20:00:36.718Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229119",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229119",
+      "expectedTokenId": 687783,
+      "timestamp": "2025-09-17T20:00:37.847Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229120",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229120",
+      "expectedTokenId": 687784,
+      "timestamp": "2025-09-17T20:00:37.845Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229121",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229121",
+      "expectedTokenId": 687785,
+      "timestamp": "2025-09-17T20:00:37.850Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229122",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229122",
+      "expectedTokenId": 687786,
+      "timestamp": "2025-09-17T20:00:37.871Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229123",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229123",
+      "expectedTokenId": 687787,
+      "timestamp": "2025-09-17T20:00:37.870Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229124",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229124",
+      "expectedTokenId": 687788,
+      "timestamp": "2025-09-17T20:00:37.845Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229125",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229125",
+      "expectedTokenId": 687789,
+      "timestamp": "2025-09-17T20:00:37.907Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229126",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229126",
+      "expectedTokenId": 687790,
+      "timestamp": "2025-09-17T20:00:37.853Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229127",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229127",
+      "expectedTokenId": 687791,
+      "timestamp": "2025-09-17T20:00:37.860Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229128",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229128",
+      "expectedTokenId": 687792,
+      "timestamp": "2025-09-17T20:00:37.883Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229129",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229129",
+      "expectedTokenId": 687793,
+      "timestamp": "2025-09-17T20:00:38.991Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229130",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229130",
+      "expectedTokenId": 687794,
+      "timestamp": "2025-09-17T20:00:38.992Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229131",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229131",
+      "expectedTokenId": 687795,
+      "timestamp": "2025-09-17T20:00:38.992Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229132",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229132",
+      "expectedTokenId": 687796,
+      "timestamp": "2025-09-17T20:00:38.992Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229133",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229133",
+      "expectedTokenId": 687797,
+      "timestamp": "2025-09-17T20:00:38.994Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229134",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229134",
+      "expectedTokenId": 687798,
+      "timestamp": "2025-09-17T20:00:39.008Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229135",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229135",
+      "expectedTokenId": 687799,
+      "timestamp": "2025-09-17T20:00:38.993Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229136",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229136",
+      "expectedTokenId": 687800,
+      "timestamp": "2025-09-17T20:00:38.996Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229137",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229137",
+      "expectedTokenId": 687801,
+      "timestamp": "2025-09-17T20:00:39.014Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229138",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229138",
+      "expectedTokenId": 687802,
+      "timestamp": "2025-09-17T20:00:39.000Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229139",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229139",
+      "expectedTokenId": 687803,
+      "timestamp": "2025-09-17T20:00:40.103Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229140",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229140",
+      "expectedTokenId": 687804,
+      "timestamp": "2025-09-17T20:00:40.117Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229141",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229141",
+      "expectedTokenId": 687805,
+      "timestamp": "2025-09-17T20:00:40.114Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229142",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229142",
+      "expectedTokenId": 687806,
+      "timestamp": "2025-09-17T20:00:40.119Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229143",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229143",
+      "expectedTokenId": 687807,
+      "timestamp": "2025-09-17T20:00:40.109Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229144",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229144",
+      "expectedTokenId": 687808,
+      "timestamp": "2025-09-17T20:00:40.125Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229145",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229145",
+      "expectedTokenId": 687809,
+      "timestamp": "2025-09-17T20:00:40.103Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229146",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229146",
+      "expectedTokenId": 687810,
+      "timestamp": "2025-09-17T20:00:40.103Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229147",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229147",
+      "expectedTokenId": 687811,
+      "timestamp": "2025-09-17T20:00:40.116Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229148",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229148",
+      "expectedTokenId": 687812,
+      "timestamp": "2025-09-17T20:00:40.110Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229149",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229149",
+      "expectedTokenId": 687813,
+      "timestamp": "2025-09-17T20:00:41.223Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229150",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229150",
+      "expectedTokenId": 687814,
+      "timestamp": "2025-09-17T20:00:41.212Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229151",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229151",
+      "expectedTokenId": 687815,
+      "timestamp": "2025-09-17T20:00:41.211Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229152",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229152",
+      "expectedTokenId": 687816,
+      "timestamp": "2025-09-17T20:00:41.212Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229153",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229153",
+      "expectedTokenId": 687817,
+      "timestamp": "2025-09-17T20:00:41.219Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229154",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229154",
+      "expectedTokenId": 687818,
+      "timestamp": "2025-09-17T20:00:41.217Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229155",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229155",
+      "expectedTokenId": 687819,
+      "timestamp": "2025-09-17T20:00:41.241Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229156",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229156",
+      "expectedTokenId": 687820,
+      "timestamp": "2025-09-17T20:00:41.232Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229157",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229157",
+      "expectedTokenId": 687821,
+      "timestamp": "2025-09-17T20:00:41.242Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229158",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229158",
+      "expectedTokenId": 687822,
+      "timestamp": "2025-09-17T20:00:41.217Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229159",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229159",
+      "expectedTokenId": 687823,
+      "timestamp": "2025-09-17T20:00:42.327Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229160",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229160",
+      "expectedTokenId": 687824,
+      "timestamp": "2025-09-17T20:00:42.311Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229161",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229161",
+      "expectedTokenId": 687825,
+      "timestamp": "2025-09-17T20:00:42.326Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229162",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229162",
+      "expectedTokenId": 687826,
+      "timestamp": "2025-09-17T20:00:42.324Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229163",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229163",
+      "expectedTokenId": 687827,
+      "timestamp": "2025-09-17T20:00:42.339Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229164",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229164",
+      "expectedTokenId": 687828,
+      "timestamp": "2025-09-17T20:00:42.357Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229165",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229165",
+      "expectedTokenId": 687829,
+      "timestamp": "2025-09-17T20:00:42.332Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229166",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229166",
+      "expectedTokenId": 687830,
+      "timestamp": "2025-09-17T20:00:42.333Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229167",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229167",
+      "expectedTokenId": 687831,
+      "timestamp": "2025-09-17T20:00:42.342Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229168",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229168",
+      "expectedTokenId": 687832,
+      "timestamp": "2025-09-17T20:00:42.376Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229169",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229169",
+      "expectedTokenId": 687833,
+      "timestamp": "2025-09-17T20:00:43.465Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229170",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229170",
+      "expectedTokenId": 687834,
+      "timestamp": "2025-09-17T20:00:43.512Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229171",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229171",
+      "expectedTokenId": 687835,
+      "timestamp": "2025-09-17T20:00:43.480Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229172",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229172",
+      "expectedTokenId": 687836,
+      "timestamp": "2025-09-17T20:00:43.468Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229173",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229173",
+      "expectedTokenId": 687837,
+      "timestamp": "2025-09-17T20:00:43.466Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229174",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229174",
+      "expectedTokenId": 687838,
+      "timestamp": "2025-09-17T20:00:43.471Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229175",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229175",
+      "expectedTokenId": 687839,
+      "timestamp": "2025-09-17T20:00:43.487Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229176",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229176",
+      "expectedTokenId": 687840,
+      "timestamp": "2025-09-17T20:00:43.463Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229177",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229177",
+      "expectedTokenId": 687841,
+      "timestamp": "2025-09-17T20:00:43.468Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229178",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229178",
+      "expectedTokenId": 687842,
+      "timestamp": "2025-09-17T20:00:43.466Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229179",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229179",
+      "expectedTokenId": 687843,
+      "timestamp": "2025-09-17T20:00:44.608Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229180",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229180",
+      "expectedTokenId": 687844,
+      "timestamp": "2025-09-17T20:00:44.605Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229181",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229181",
+      "expectedTokenId": 687845,
+      "timestamp": "2025-09-17T20:00:44.610Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229182",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229182",
+      "expectedTokenId": 687846,
+      "timestamp": "2025-09-17T20:00:44.631Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229183",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229183",
+      "expectedTokenId": 687847,
+      "timestamp": "2025-09-17T20:00:44.635Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229184",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229184",
+      "expectedTokenId": 687848,
+      "timestamp": "2025-09-17T20:00:44.604Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229185",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229185",
+      "expectedTokenId": 687849,
+      "timestamp": "2025-09-17T20:00:44.605Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229186",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229186",
+      "expectedTokenId": 687850,
+      "timestamp": "2025-09-17T20:00:44.605Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229187",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229187",
+      "expectedTokenId": 687851,
+      "timestamp": "2025-09-17T20:00:44.605Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229188",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229188",
+      "expectedTokenId": 687852,
+      "timestamp": "2025-09-17T20:00:44.651Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229189",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229189",
+      "expectedTokenId": 687853,
+      "timestamp": "2025-09-17T20:00:45.744Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229190",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229190",
+      "expectedTokenId": 687854,
+      "timestamp": "2025-09-17T20:00:45.742Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229191",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229191",
+      "expectedTokenId": 687855,
+      "timestamp": "2025-09-17T20:00:45.746Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229192",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229192",
+      "expectedTokenId": 687856,
+      "timestamp": "2025-09-17T20:00:45.779Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229193",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229193",
+      "expectedTokenId": 687857,
+      "timestamp": "2025-09-17T20:00:45.739Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229194",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229194",
+      "expectedTokenId": 687858,
+      "timestamp": "2025-09-17T20:00:45.753Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229195",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229195",
+      "expectedTokenId": 687859,
+      "timestamp": "2025-09-17T20:00:46.048Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229196",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229196",
+      "expectedTokenId": 687860,
+      "timestamp": "2025-09-17T20:00:45.742Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229197",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229197",
+      "expectedTokenId": 687861,
+      "timestamp": "2025-09-17T20:00:45.738Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229198",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229198",
+      "expectedTokenId": 687862,
+      "timestamp": "2025-09-17T20:00:45.743Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229199",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229199",
+      "expectedTokenId": 687863,
+      "timestamp": "2025-09-17T20:00:47.133Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229200",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229200",
+      "expectedTokenId": 687864,
+      "timestamp": "2025-09-17T20:00:47.180Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229201",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229201",
+      "expectedTokenId": 687865,
+      "timestamp": "2025-09-17T20:00:47.133Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229202",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229202",
+      "expectedTokenId": 687866,
+      "timestamp": "2025-09-17T20:00:47.195Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229203",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229203",
+      "expectedTokenId": 687867,
+      "timestamp": "2025-09-17T20:00:47.143Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229204",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229204",
+      "expectedTokenId": 687868,
+      "timestamp": "2025-09-17T20:00:47.132Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229205",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229205",
+      "expectedTokenId": 687869,
+      "timestamp": "2025-09-17T20:00:47.137Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229206",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229206",
+      "expectedTokenId": 687870,
+      "timestamp": "2025-09-17T20:00:47.136Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229207",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229207",
+      "expectedTokenId": 687871,
+      "timestamp": "2025-09-17T20:00:47.138Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229208",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229208",
+      "expectedTokenId": 687872,
+      "timestamp": "2025-09-17T20:00:47.169Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229209",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229209",
+      "expectedTokenId": 687873,
+      "timestamp": "2025-09-17T20:00:48.318Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229210",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229210",
+      "expectedTokenId": 687874,
+      "timestamp": "2025-09-17T20:00:48.299Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229211",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229211",
+      "expectedTokenId": 687875,
+      "timestamp": "2025-09-17T20:00:48.276Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229212",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229212",
+      "expectedTokenId": 687876,
+      "timestamp": "2025-09-17T20:00:48.305Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229213",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229213",
+      "expectedTokenId": 687877,
+      "timestamp": "2025-09-17T20:00:48.281Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229214",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229214",
+      "expectedTokenId": 687878,
+      "timestamp": "2025-09-17T20:00:48.297Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229215",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229215",
+      "expectedTokenId": 687879,
+      "timestamp": "2025-09-17T20:00:48.301Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229216",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229216",
+      "expectedTokenId": 687880,
+      "timestamp": "2025-09-17T20:00:48.328Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229217",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229217",
+      "expectedTokenId": 687881,
+      "timestamp": "2025-09-17T20:00:48.272Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229218",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229218",
+      "expectedTokenId": 687882,
+      "timestamp": "2025-09-17T20:00:48.300Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229219",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229219",
+      "expectedTokenId": 687883,
+      "timestamp": "2025-09-17T20:00:49.426Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229220",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229220",
+      "expectedTokenId": 687884,
+      "timestamp": "2025-09-17T20:00:49.431Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229221",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229221",
+      "expectedTokenId": 687885,
+      "timestamp": "2025-09-17T20:00:49.424Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229222",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229222",
+      "expectedTokenId": 687886,
+      "timestamp": "2025-09-17T20:00:49.417Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229223",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229223",
+      "expectedTokenId": 687887,
+      "timestamp": "2025-09-17T20:00:49.410Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229224",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229224",
+      "expectedTokenId": 687888,
+      "timestamp": "2025-09-17T20:00:49.435Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229225",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229225",
+      "expectedTokenId": 687889,
+      "timestamp": "2025-09-17T20:00:49.408Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229226",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229226",
+      "expectedTokenId": 687890,
+      "timestamp": "2025-09-17T20:00:49.432Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229227",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229227",
+      "expectedTokenId": 687891,
+      "timestamp": "2025-09-17T20:00:49.429Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229228",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229228",
+      "expectedTokenId": 687892,
+      "timestamp": "2025-09-17T20:00:49.426Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229229",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229229",
+      "expectedTokenId": 687893,
+      "timestamp": "2025-09-17T20:00:50.525Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229230",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229230",
+      "expectedTokenId": 687894,
+      "timestamp": "2025-09-17T20:00:50.530Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229231",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229231",
+      "expectedTokenId": 687895,
+      "timestamp": "2025-09-17T20:00:50.537Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229232",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229232",
+      "expectedTokenId": 687896,
+      "timestamp": "2025-09-17T20:00:50.531Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229233",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229233",
+      "expectedTokenId": 687897,
+      "timestamp": "2025-09-17T20:00:50.568Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229234",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229234",
+      "expectedTokenId": 687898,
+      "timestamp": "2025-09-17T20:00:50.559Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229235",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229235",
+      "expectedTokenId": 687899,
+      "timestamp": "2025-09-17T20:00:50.530Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229236",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229236",
+      "expectedTokenId": 687900,
+      "timestamp": "2025-09-17T20:00:50.530Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229237",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229237",
+      "expectedTokenId": 687901,
+      "timestamp": "2025-09-17T20:00:50.562Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229238",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229238",
+      "expectedTokenId": 687902,
+      "timestamp": "2025-09-17T20:00:50.524Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229239",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229239",
+      "expectedTokenId": 687903,
+      "timestamp": "2025-09-17T20:00:51.646Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229240",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229240",
+      "expectedTokenId": 687904,
+      "timestamp": "2025-09-17T20:00:51.658Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229241",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229241",
+      "expectedTokenId": 687905,
+      "timestamp": "2025-09-17T20:00:51.659Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229242",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229242",
+      "expectedTokenId": 687906,
+      "timestamp": "2025-09-17T20:00:51.671Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229243",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229243",
+      "expectedTokenId": 687907,
+      "timestamp": "2025-09-17T20:00:51.670Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229244",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229244",
+      "expectedTokenId": 687908,
+      "timestamp": "2025-09-17T20:00:51.664Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229245",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229245",
+      "expectedTokenId": 687909,
+      "timestamp": "2025-09-17T20:00:51.661Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229246",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229246",
+      "expectedTokenId": 687910,
+      "timestamp": "2025-09-17T20:00:51.658Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229247",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229247",
+      "expectedTokenId": 687911,
+      "timestamp": "2025-09-17T20:00:51.692Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229248",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229248",
+      "expectedTokenId": 687912,
+      "timestamp": "2025-09-17T20:00:51.650Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229249",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229249",
+      "expectedTokenId": 687913,
+      "timestamp": "2025-09-17T20:00:52.782Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229250",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229250",
+      "expectedTokenId": 687914,
+      "timestamp": "2025-09-17T20:00:52.782Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229251",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229251",
+      "expectedTokenId": 687915,
+      "timestamp": "2025-09-17T20:00:52.786Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229252",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229252",
+      "expectedTokenId": 687916,
+      "timestamp": "2025-09-17T20:00:52.782Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229253",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229253",
+      "expectedTokenId": 687917,
+      "timestamp": "2025-09-17T20:00:52.782Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229254",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229254",
+      "expectedTokenId": 687918,
+      "timestamp": "2025-09-17T20:00:52.801Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229255",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229255",
+      "expectedTokenId": 687919,
+      "timestamp": "2025-09-17T20:00:52.853Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229256",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229256",
+      "expectedTokenId": 687920,
+      "timestamp": "2025-09-17T20:00:52.777Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229257",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229257",
+      "expectedTokenId": 687921,
+      "timestamp": "2025-09-17T20:00:52.804Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229258",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229258",
+      "expectedTokenId": 687922,
+      "timestamp": "2025-09-17T20:00:52.789Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229259",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229259",
+      "expectedTokenId": 687923,
+      "timestamp": "2025-09-17T20:00:53.945Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229260",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229260",
+      "expectedTokenId": 687924,
+      "timestamp": "2025-09-17T20:00:54.036Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229261",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229261",
+      "expectedTokenId": 687925,
+      "timestamp": "2025-09-17T20:00:53.946Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229262",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229262",
+      "expectedTokenId": 687926,
+      "timestamp": "2025-09-17T20:00:53.942Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229263",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229263",
+      "expectedTokenId": 687927,
+      "timestamp": "2025-09-17T20:00:53.953Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229264",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229264",
+      "expectedTokenId": 687928,
+      "timestamp": "2025-09-17T20:00:53.965Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229265",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229265",
+      "expectedTokenId": 687929,
+      "timestamp": "2025-09-17T20:00:53.940Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229266",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229266",
+      "expectedTokenId": 687930,
+      "timestamp": "2025-09-17T20:00:53.941Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229267",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229267",
+      "expectedTokenId": 687931,
+      "timestamp": "2025-09-17T20:00:53.941Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229268",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229268",
+      "expectedTokenId": 687932,
+      "timestamp": "2025-09-17T20:00:53.946Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229269",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229269",
+      "expectedTokenId": 687933,
+      "timestamp": "2025-09-17T20:00:55.162Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229270",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229270",
+      "expectedTokenId": 687934,
+      "timestamp": "2025-09-17T20:00:55.123Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229271",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229271",
+      "expectedTokenId": 687935,
+      "timestamp": "2025-09-17T20:00:55.156Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229272",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229272",
+      "expectedTokenId": 687936,
+      "timestamp": "2025-09-17T20:00:55.144Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229273",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229273",
+      "expectedTokenId": 687937,
+      "timestamp": "2025-09-17T20:00:55.146Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229274",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229274",
+      "expectedTokenId": 687938,
+      "timestamp": "2025-09-17T20:00:55.139Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229275",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229275",
+      "expectedTokenId": 687939,
+      "timestamp": "2025-09-17T20:00:55.125Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229276",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229276",
+      "expectedTokenId": 687940,
+      "timestamp": "2025-09-17T20:00:55.146Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229277",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229277",
+      "expectedTokenId": 687941,
+      "timestamp": "2025-09-17T20:00:55.121Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229278",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229278",
+      "expectedTokenId": 687942,
+      "timestamp": "2025-09-17T20:00:55.151Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229279",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229279",
+      "expectedTokenId": 687943,
+      "timestamp": "2025-09-17T20:00:56.257Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229280",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229280",
+      "expectedTokenId": 687944,
+      "timestamp": "2025-09-17T20:00:56.264Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229281",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229281",
+      "expectedTokenId": 687945,
+      "timestamp": "2025-09-17T20:00:56.251Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229282",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229282",
+      "expectedTokenId": 687946,
+      "timestamp": "2025-09-17T20:00:56.276Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229283",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229283",
+      "expectedTokenId": 687947,
+      "timestamp": "2025-09-17T20:00:56.258Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229284",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229284",
+      "expectedTokenId": 687948,
+      "timestamp": "2025-09-17T20:00:56.267Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229285",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229285",
+      "expectedTokenId": 687949,
+      "timestamp": "2025-09-17T20:00:56.264Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229286",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229286",
+      "expectedTokenId": 687950,
+      "timestamp": "2025-09-17T20:00:56.255Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229287",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229287",
+      "expectedTokenId": 687951,
+      "timestamp": "2025-09-17T20:00:56.249Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229288",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229288",
+      "expectedTokenId": 687952,
+      "timestamp": "2025-09-17T20:00:56.258Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229289",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229289",
+      "expectedTokenId": 687953,
+      "timestamp": "2025-09-17T20:00:57.362Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229290",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229290",
+      "expectedTokenId": 687954,
+      "timestamp": "2025-09-17T20:00:57.362Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229291",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229291",
+      "expectedTokenId": 687955,
+      "timestamp": "2025-09-17T20:00:57.411Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229292",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229292",
+      "expectedTokenId": 687956,
+      "timestamp": "2025-09-17T20:00:57.367Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229293",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229293",
+      "expectedTokenId": 687957,
+      "timestamp": "2025-09-17T20:00:57.361Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229294",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229294",
+      "expectedTokenId": 687958,
+      "timestamp": "2025-09-17T20:00:57.354Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229295",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229295",
+      "expectedTokenId": 687959,
+      "timestamp": "2025-09-17T20:00:57.362Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229296",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229296",
+      "expectedTokenId": 687960,
+      "timestamp": "2025-09-17T20:00:57.364Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229297",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229297",
+      "expectedTokenId": 687961,
+      "timestamp": "2025-09-17T20:00:57.362Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229298",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229298",
+      "expectedTokenId": 687962,
+      "timestamp": "2025-09-17T20:00:57.416Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229299",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229299",
+      "expectedTokenId": 687963,
+      "timestamp": "2025-09-17T20:00:58.541Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229300",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229300",
+      "expectedTokenId": 687964,
+      "timestamp": "2025-09-17T20:00:58.510Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229301",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229301",
+      "expectedTokenId": 687965,
+      "timestamp": "2025-09-17T20:00:58.523Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229302",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229302",
+      "expectedTokenId": 687966,
+      "timestamp": "2025-09-17T20:00:58.519Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229303",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229303",
+      "expectedTokenId": 687967,
+      "timestamp": "2025-09-17T20:00:58.502Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229304",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229304",
+      "expectedTokenId": 687968,
+      "timestamp": "2025-09-17T20:00:58.607Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229305",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229305",
+      "expectedTokenId": 687969,
+      "timestamp": "2025-09-17T20:00:58.525Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229306",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229306",
+      "expectedTokenId": 687970,
+      "timestamp": "2025-09-17T20:00:58.517Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229307",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229307",
+      "expectedTokenId": 687971,
+      "timestamp": "2025-09-17T20:00:58.517Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229308",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229308",
+      "expectedTokenId": 687972,
+      "timestamp": "2025-09-17T20:00:58.517Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229309",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229309",
+      "expectedTokenId": 687973,
+      "timestamp": "2025-09-17T20:00:59.695Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229310",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229310",
+      "expectedTokenId": 687974,
+      "timestamp": "2025-09-17T20:00:59.707Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229311",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229311",
+      "expectedTokenId": 687975,
+      "timestamp": "2025-09-17T20:00:59.726Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229312",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229312",
+      "expectedTokenId": 687976,
+      "timestamp": "2025-09-17T20:00:59.695Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229313",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229313",
+      "expectedTokenId": 687977,
+      "timestamp": "2025-09-17T20:00:59.701Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229314",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229314",
+      "expectedTokenId": 687978,
+      "timestamp": "2025-09-17T20:00:59.692Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229315",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229315",
+      "expectedTokenId": 687979,
+      "timestamp": "2025-09-17T20:00:59.728Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229316",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229316",
+      "expectedTokenId": 687980,
+      "timestamp": "2025-09-17T20:00:59.700Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229317",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229317",
+      "expectedTokenId": 687981,
+      "timestamp": "2025-09-17T20:00:59.731Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229318",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229318",
+      "expectedTokenId": 687982,
+      "timestamp": "2025-09-17T20:00:59.706Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229319",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229319",
+      "expectedTokenId": 687983,
+      "timestamp": "2025-09-17T20:01:00.813Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229320",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229320",
+      "expectedTokenId": 687984,
+      "timestamp": "2025-09-17T20:01:00.814Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229321",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229321",
+      "expectedTokenId": 687985,
+      "timestamp": "2025-09-17T20:01:00.808Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229322",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229322",
+      "expectedTokenId": 687986,
+      "timestamp": "2025-09-17T20:01:00.818Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229323",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229323",
+      "expectedTokenId": 687987,
+      "timestamp": "2025-09-17T20:01:00.827Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229324",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229324",
+      "expectedTokenId": 687988,
+      "timestamp": "2025-09-17T20:01:00.814Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229325",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229325",
+      "expectedTokenId": 687989,
+      "timestamp": "2025-09-17T20:01:00.822Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229326",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229326",
+      "expectedTokenId": 687990,
+      "timestamp": "2025-09-17T20:01:00.826Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229327",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229327",
+      "expectedTokenId": 687991,
+      "timestamp": "2025-09-17T20:01:00.822Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229328",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229328",
+      "expectedTokenId": 687992,
+      "timestamp": "2025-09-17T20:01:00.846Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229329",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229329",
+      "expectedTokenId": 687993,
+      "timestamp": "2025-09-17T20:01:01.965Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229330",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229330",
+      "expectedTokenId": 687994,
+      "timestamp": "2025-09-17T20:01:01.937Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229331",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229331",
+      "expectedTokenId": 687995,
+      "timestamp": "2025-09-17T20:01:01.930Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229332",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229332",
+      "expectedTokenId": 687996,
+      "timestamp": "2025-09-17T20:01:01.953Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229333",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229333",
+      "expectedTokenId": 687997,
+      "timestamp": "2025-09-17T20:01:01.947Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229334",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229334",
+      "expectedTokenId": 687998,
+      "timestamp": "2025-09-17T20:01:01.935Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229335",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229335",
+      "expectedTokenId": 687999,
+      "timestamp": "2025-09-17T20:01:01.952Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229336",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229336",
+      "expectedTokenId": 688000,
+      "timestamp": "2025-09-17T20:01:01.933Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229337",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229337",
+      "expectedTokenId": 688001,
+      "timestamp": "2025-09-17T20:01:01.953Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229338",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229338",
+      "expectedTokenId": 688002,
+      "timestamp": "2025-09-17T20:01:01.937Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229339",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229339",
+      "expectedTokenId": 688003,
+      "timestamp": "2025-09-17T20:01:03.080Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229340",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229340",
+      "expectedTokenId": 688004,
+      "timestamp": "2025-09-17T20:01:03.061Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229341",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229341",
+      "expectedTokenId": 688005,
+      "timestamp": "2025-09-17T20:01:03.065Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229342",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229342",
+      "expectedTokenId": 688006,
+      "timestamp": "2025-09-17T20:01:03.073Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229343",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229343",
+      "expectedTokenId": 688007,
+      "timestamp": "2025-09-17T20:01:03.087Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229344",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229344",
+      "expectedTokenId": 688008,
+      "timestamp": "2025-09-17T20:01:03.077Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229345",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229345",
+      "expectedTokenId": 688009,
+      "timestamp": "2025-09-17T20:01:03.101Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229346",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229346",
+      "expectedTokenId": 688010,
+      "timestamp": "2025-09-17T20:01:03.064Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229347",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229347",
+      "expectedTokenId": 688011,
+      "timestamp": "2025-09-17T20:01:03.065Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229348",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229348",
+      "expectedTokenId": 688012,
+      "timestamp": "2025-09-17T20:01:03.059Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229349",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229349",
+      "expectedTokenId": 688013,
+      "timestamp": "2025-09-17T20:01:04.220Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229350",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229350",
+      "expectedTokenId": 688014,
+      "timestamp": "2025-09-17T20:01:04.195Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229351",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229351",
+      "expectedTokenId": 688015,
+      "timestamp": "2025-09-17T20:01:04.204Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229352",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229352",
+      "expectedTokenId": 688016,
+      "timestamp": "2025-09-17T20:01:04.188Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229353",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229353",
+      "expectedTokenId": 688017,
+      "timestamp": "2025-09-17T20:01:04.197Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229354",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229354",
+      "expectedTokenId": 688018,
+      "timestamp": "2025-09-17T20:01:04.196Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/b0229355",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229355",
+      "expectedTokenId": 688019,
+      "timestamp": "2025-09-17T20:01:04.181Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    }
+  ],
+  "longUrlResults": [
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229059",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229059",
+      "expectedTokenId": 687723,
+      "timestamp": "2025-09-17T20:00:30.924Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229069",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229069",
+      "expectedTokenId": 687733,
+      "timestamp": "2025-09-17T20:00:32.031Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229079",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229079",
+      "expectedTokenId": 687743,
+      "timestamp": "2025-09-17T20:00:33.127Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229089",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229089",
+      "expectedTokenId": 687753,
+      "timestamp": "2025-09-17T20:00:34.268Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229099",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229099",
+      "expectedTokenId": 687763,
+      "timestamp": "2025-09-17T20:00:35.495Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229109",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229109",
+      "expectedTokenId": 687773,
+      "timestamp": "2025-09-17T20:00:36.709Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229119",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229119",
+      "expectedTokenId": 687783,
+      "timestamp": "2025-09-17T20:00:37.850Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229129",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229129",
+      "expectedTokenId": 687793,
+      "timestamp": "2025-09-17T20:00:38.992Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229139",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229139",
+      "expectedTokenId": 687803,
+      "timestamp": "2025-09-17T20:00:40.114Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229149",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229149",
+      "expectedTokenId": 687813,
+      "timestamp": "2025-09-17T20:00:41.241Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229159",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229159",
+      "expectedTokenId": 687823,
+      "timestamp": "2025-09-17T20:00:42.330Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229169",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229169",
+      "expectedTokenId": 687833,
+      "timestamp": "2025-09-17T20:00:43.464Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229179",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229179",
+      "expectedTokenId": 687843,
+      "timestamp": "2025-09-17T20:00:44.605Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229189",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229189",
+      "expectedTokenId": 687853,
+      "timestamp": "2025-09-17T20:00:45.736Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229199",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229199",
+      "expectedTokenId": 687863,
+      "timestamp": "2025-09-17T20:00:47.134Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229209",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229209",
+      "expectedTokenId": 687873,
+      "timestamp": "2025-09-17T20:00:48.303Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229219",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229219",
+      "expectedTokenId": 687883,
+      "timestamp": "2025-09-17T20:00:49.426Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229229",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229229",
+      "expectedTokenId": 687893,
+      "timestamp": "2025-09-17T20:00:50.523Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229239",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229239",
+      "expectedTokenId": 687903,
+      "timestamp": "2025-09-17T20:00:51.650Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229249",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229249",
+      "expectedTokenId": 687913,
+      "timestamp": "2025-09-17T20:00:52.785Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229259",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229259",
+      "expectedTokenId": 687923,
+      "timestamp": "2025-09-17T20:00:53.946Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229269",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229269",
+      "expectedTokenId": 687933,
+      "timestamp": "2025-09-17T20:00:55.125Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229279",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229279",
+      "expectedTokenId": 687943,
+      "timestamp": "2025-09-17T20:00:56.264Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229289",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229289",
+      "expectedTokenId": 687953,
+      "timestamp": "2025-09-17T20:00:57.383Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229299",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229299",
+      "expectedTokenId": 687963,
+      "timestamp": "2025-09-17T20:00:58.504Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229309",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229309",
+      "expectedTokenId": 687973,
+      "timestamp": "2025-09-17T20:00:59.720Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229319",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229319",
+      "expectedTokenId": 687983,
+      "timestamp": "2025-09-17T20:01:00.814Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229329",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229329",
+      "expectedTokenId": 687993,
+      "timestamp": "2025-09-17T20:01:01.941Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229339",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229339",
+      "expectedTokenId": 688003,
+      "timestamp": "2025-09-17T20:01:03.061Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    },
+    {
+      "url": "https://app.blockticity.ai/coa/mainnet-b0229349",
+      "statusCode": 200,
+      "contentLength": 938,
+      "expectedOrderId": "b0229349",
+      "expectedTokenId": 688013,
+      "timestamp": "2025-09-17T20:01:04.204Z",
+      "status": "success",
+      "contentChecks": {
+        "hasOrderId": false,
+        "hasTokenId": false,
+        "hasEarlCampbell": false,
+        "hasBlockticity": true,
+        "allChecksPass": false
+      },
+      "verdict": "PARTIAL",
+      "warning": "Page loads but missing expected content"
+    }
+  ],
+  "errors": [],
+  "summary": {
+    "totalTested": 327,
+    "passed": 0,
+    "partial": 327,
+    "failed": 0,
+    "passRate": "0.00%",
+    "successRate": "100.00%",
+    "samplePassingUrls": [],
+    "failedUrls": []
+  }
+}

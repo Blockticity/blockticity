@@ -1,4 +1,6 @@
 import { ethers } from 'ethers'
+import { getBestProvider, executeWithFailover } from './rpc-manager'
+import cacheManager from './cache-manager'
 
 // ERC-721 ABI for tokenURI function
 const ERC721_ABI = [
@@ -30,25 +32,31 @@ const ERC721_ABI = [
  */
 export const getTokenURI = async (networkConfig, tokenId) => {
   try {
+    // Check cache first
+    const cached = cacheManager.getTokenURI(networkConfig.chainId, tokenId)
+    if (cached) {
+      return cached
+    }
+    
     console.log('🔗 Querying blockchain for tokenURI:', {
       network: networkConfig.name,
       contract: networkConfig.contractAddress,
-      tokenId: tokenId,
-      rpcUrl: networkConfig.rpcUrl
+      tokenId: tokenId
     })
 
-    // Create provider using the network's RPC URL
-    const provider = new ethers.JsonRpcProvider(networkConfig.rpcUrl)
+    // Use RPC manager with failover
+    const tokenURI = await executeWithFailover(networkConfig, async (provider) => {
+      const contract = new ethers.Contract(
+        networkConfig.contractAddress,
+        ERC721_ABI,
+        provider
+      )
+      
+      return await contract.tokenURI(tokenId)
+    })
     
-    // Create contract instance
-    const contract = new ethers.Contract(
-      networkConfig.contractAddress,
-      ERC721_ABI,
-      provider
-    )
-    
-    // Query the tokenURI from the blockchain
-    const tokenURI = await contract.tokenURI(tokenId)
+    // Cache the result
+    cacheManager.setTokenURI(networkConfig.chainId, tokenId, tokenURI)
     
     console.log('✅ Blockchain tokenURI result:', {
       tokenId,
@@ -116,11 +124,19 @@ export const resolveIPFSUrl = (uri) => {
  * Fetch metadata with automatic IPFS gateway fallback
  */
 export const fetchMetadataFromURI = async (uri) => {
+  // Check cache first
+  const cached = cacheManager.getMetadata(uri)
+  if (cached) {
+    return cached
+  }
+  
   console.log('📡 Starting metadata fetch:', {
     originalUri: uri,
     isIPFS: uri.startsWith('ipfs://'),
     source: uri.startsWith('ipfs://') ? 'IPFS' : 'HTTP'
   })
+  
+  let metadata
   
   // If it's not IPFS, use direct fetch
   if (!uri.startsWith('ipfs://')) {
@@ -128,7 +144,9 @@ export const fetchMetadataFromURI = async (uri) => {
     if (!response.ok) {
       throw new Error(`Failed to fetch metadata: ${response.status} ${response.statusText}`)
     }
-    return await response.json()
+    metadata = await response.json()
+    cacheManager.setMetadata(uri, metadata)
+    return metadata
   }
   
   // IPFS URI - use gateway fallback
@@ -159,6 +177,9 @@ export const fetchMetadataFromURI = async (uri) => {
         attributes: metadata.attributes?.length || 0
       })
       
+      // Cache the successful result
+      cacheManager.setMetadata(uri, metadata)
+      
       return metadata
       
     } catch (err) {
@@ -179,7 +200,8 @@ export const searchTokensByOrderId = async (networkConfig, orderIdToFind) => {
   try {
     console.log('🔍 Searching blockchain for Order ID:', orderIdToFind)
     
-    const provider = new ethers.JsonRpcProvider(networkConfig.rpcUrl)
+    // Get best provider from RPC manager
+    const provider = await getBestProvider(networkConfig)
     const contract = new ethers.Contract(
       networkConfig.contractAddress,
       ERC721_ABI,
