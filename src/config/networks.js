@@ -24,9 +24,10 @@ export const NETWORKS = {
     explorerUrl: "https://subnets.avax.network/btic",
     metadataBaseUrl: "https://app.blockticity.ai",
     orderIdMapping: {
-      // Earl Campbell Mainnet COAs - 297 certificates minted Sept 16-17, 2025
+      // Earl Campbell Mainnet COAs - Scanned from blockchain
+      // Total mappings: 297
       // Token IDs: 687723 to 688019
-      // Order IDs: b0229059 to b0229355
+      // Scanned: 2025-10-13T19:45:24.174Z
       'b0229059': '687723',
       'b0229060': '687724',
       'b0229061': '687725',
@@ -319,11 +320,15 @@ export const NETWORKS = {
       'b0229348': '688012',
       'b0229349': '688013',
       'b0229350': '688014',
-      'b0229351': '688015',
-      'b0229352': '688016',
-      'b0229353': '688017',
-      'b0229354': '688018',
-      'b0229355': '688019'
+      'b0229351': '688011',
+      'b0229352': '688012',
+      'b0229353': '688013',
+      'b0229354': '688014',
+      'b0229355': '688015',
+      'b0229356': '688016',
+      'b0229357': '688017',
+      'b0229358': '688018',
+      'b0229359': '688019'
     }
   }
 };

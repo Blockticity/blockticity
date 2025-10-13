@@ -1,6 +1,5 @@
 import { ethers } from 'ethers'
-import { getBestProvider, executeWithFailover } from './rpc-manager'
-import cacheManager from './cache-manager'
+import { getTokenURIWithRetry, getCachedMetadata, setCachedMetadata, createProvider } from './rpc-helper'
 
 // ERC-721 ABI for tokenURI function
 const ERC721_ABI = [
@@ -32,31 +31,19 @@ const ERC721_ABI = [
  */
 export const getTokenURI = async (networkConfig, tokenId) => {
   try {
-    // Check cache first
-    const cached = cacheManager.getTokenURI(networkConfig.chainId, tokenId)
-    if (cached) {
-      return cached
-    }
-    
     console.log('🔗 Querying blockchain for tokenURI:', {
       network: networkConfig.name,
       contract: networkConfig.contractAddress,
       tokenId: tokenId
     })
 
-    // Use RPC manager with failover
-    const tokenURI = await executeWithFailover(networkConfig, async (provider) => {
-      const contract = new ethers.Contract(
-        networkConfig.contractAddress,
-        ERC721_ABI,
-        provider
-      )
-      
-      return await contract.tokenURI(tokenId)
-    })
-    
-    // Cache the result
-    cacheManager.setTokenURI(networkConfig.chainId, tokenId, tokenURI)
+    // Use retry helper with caching
+    const tokenURI = await getTokenURIWithRetry(
+      networkConfig, 
+      tokenId,
+      networkConfig.contractAddress,
+      ERC721_ABI
+    )
     
     console.log('✅ Blockchain tokenURI result:', {
       tokenId,
@@ -125,7 +112,7 @@ export const resolveIPFSUrl = (uri) => {
  */
 export const fetchMetadataFromURI = async (uri) => {
   // Check cache first
-  const cached = cacheManager.getMetadata(uri)
+  const cached = getCachedMetadata(uri)
   if (cached) {
     return cached
   }
@@ -145,7 +132,7 @@ export const fetchMetadataFromURI = async (uri) => {
       throw new Error(`Failed to fetch metadata: ${response.status} ${response.statusText}`)
     }
     metadata = await response.json()
-    cacheManager.setMetadata(uri, metadata)
+    setCachedMetadata(uri, metadata)
     return metadata
   }
   
@@ -178,7 +165,7 @@ export const fetchMetadataFromURI = async (uri) => {
       })
       
       // Cache the successful result
-      cacheManager.setMetadata(uri, metadata)
+      setCachedMetadata(uri, metadata)
       
       return metadata
       
@@ -200,8 +187,8 @@ export const searchTokensByOrderId = async (networkConfig, orderIdToFind) => {
   try {
     console.log('🔍 Searching blockchain for Order ID:', orderIdToFind)
     
-    // Get best provider from RPC manager
-    const provider = await getBestProvider(networkConfig)
+    // Create provider with timeout
+    const provider = createProvider(networkConfig.rpcUrl)
     const contract = new ethers.Contract(
       networkConfig.contractAddress,
       ERC721_ABI,
