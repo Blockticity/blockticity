@@ -3,9 +3,14 @@ import PlayerCOA from './views/PlayerCOA.vue';
 
 const routes = [
   {
-    path: '/playerscoa/:id',
-    name: 'PlayerCOA',
+    path: '/coa/:id',
+    name: 'COA',
     component: PlayerCOA
+  },
+  // Legacy route for backwards compatibility
+  {
+    path: '/playerscoa/:id',
+    redirect: to => `/coa/${to.params.id}`
   }
 ];
 
