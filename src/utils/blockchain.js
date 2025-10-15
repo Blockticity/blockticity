@@ -1,5 +1,6 @@
 import { ethers } from 'ethers'
 import { getTokenURIWithRetry, getCachedMetadata, setCachedMetadata, createProvider } from './rpc-helper'
+import { isEncryptedData, decryptMetadata } from './decryption'
 
 // ERC-721 ABI for tokenURI function
 const ERC721_ABI = [
@@ -109,72 +110,136 @@ export const resolveIPFSUrl = (uri) => {
 
 /**
  * Fetch metadata with automatic IPFS gateway fallback
+ * Supports both plain JSON and encrypted metadata
  */
-export const fetchMetadataFromURI = async (uri) => {
-  // Check cache first
+export const fetchMetadataFromURI = async (uri, password = null) => {
+  // Auto-decrypt for Wacker tokens with known password
+  if (!password) {
+    password = '***REMOVED***'; // Default password for encrypted Wacker COAs
+  }
+  // Check cache first (only for non-encrypted or already decrypted)
   const cached = getCachedMetadata(uri)
-  if (cached) {
+  if (cached && !cached._encrypted) {
     return cached
   }
-  
+
   console.log('📡 Starting metadata fetch:', {
     originalUri: uri,
     isIPFS: uri.startsWith('ipfs://'),
-    source: uri.startsWith('ipfs://') ? 'IPFS' : 'HTTP'
+    source: uri.startsWith('ipfs://') ? 'IPFS' : 'HTTP',
+    hasPassword: !!password
   })
-  
+
   let metadata
-  
+
   // If it's not IPFS, use direct fetch
   if (!uri.startsWith('ipfs://')) {
     const response = await fetch(uri)
     if (!response.ok) {
       throw new Error(`Failed to fetch metadata: ${response.status} ${response.statusText}`)
     }
-    metadata = await response.json()
+
+    // Try to detect if it's encrypted binary data
+    const arrayBuffer = await response.arrayBuffer()
+    if (isEncryptedData(arrayBuffer)) {
+      console.log('🔐 Detected encrypted metadata')
+      // Return a special marker indicating encryption
+      return {
+        _encrypted: true,
+        _uri: uri,
+        _data: arrayBuffer
+      }
+    }
+
+    // Parse as JSON
+    const text = new TextDecoder().decode(arrayBuffer)
+    metadata = JSON.parse(text)
     setCachedMetadata(uri, metadata)
     return metadata
   }
-  
+
   // IPFS URI - use gateway fallback
   const hash = extractIPFSHash(uri)
   console.log('🔗 IPFS hash extracted:', hash)
-  
+
   const errors = []
-  
+
   for (const gateway of IPFS_GATEWAYS) {
     try {
       const url = gateway + hash
       console.log(`🌐 Trying gateway: ${gateway}`)
-      
+
       const response = await fetch(url, {
         signal: AbortSignal.timeout(10000) // 10 second timeout per gateway
       })
-      
+
       if (!response.ok) {
         throw new Error(`HTTP ${response.status}: ${response.statusText}`)
       }
-      
-      const metadata = await response.json()
-      
-      console.log('✅ Metadata fetched successfully via:', gateway, {
-        name: metadata.name,
-        description: metadata.description?.substring(0, 100) + '...',
-        image: metadata.image,
-        attributes: metadata.attributes?.length || 0
-      })
-      
-      // Cache the successful result
-      setCachedMetadata(uri, metadata)
-      
-      return metadata
-      
+
+      // Get as array buffer to check if encrypted
+      const arrayBuffer = await response.arrayBuffer()
+
+      // Check if this is encrypted data
+      if (isEncryptedData(arrayBuffer)) {
+        console.log('🔐 Detected encrypted metadata from:', gateway)
+
+        // If no password provided, return marker
+        if (!password) {
+          return {
+            _encrypted: true,
+            _uri: uri,
+            _data: arrayBuffer
+          }
+        }
+
+        // Decrypt the metadata
+        try {
+          console.log('🔓 Attempting to decrypt metadata...')
+          metadata = await decryptMetadata(arrayBuffer, password)
+
+          console.log('✅ Metadata decrypted successfully:', {
+            name: metadata.name,
+            description: metadata.description?.substring(0, 100) + '...',
+            image: metadata.image,
+            attributes: metadata.attributes?.length || 0
+          })
+
+          setCachedMetadata(uri, metadata)
+          return metadata
+
+        } catch (decryptError) {
+          console.error('❌ Decryption failed:', decryptError.message)
+          throw new Error(`Failed to decrypt metadata: ${decryptError.message}`)
+        }
+      }
+
+      // Try to parse as JSON
+      try {
+        const text = new TextDecoder().decode(arrayBuffer)
+        metadata = JSON.parse(text)
+
+        console.log('✅ Metadata fetched successfully via:', gateway, {
+          name: metadata.name,
+          description: metadata.description?.substring(0, 100) + '...',
+          image: metadata.image,
+          attributes: metadata.attributes?.length || 0
+        })
+
+        // Cache the successful result
+        setCachedMetadata(uri, metadata)
+
+        return metadata
+      } catch (jsonError) {
+        throw new Error(`Failed to parse as JSON: ${jsonError.message}`)
+      }
+
     } catch (err) {
       console.log(`❌ Gateway ${gateway} failed:`, err.message)
       errors.push(`${gateway}: ${err.message}`)
     }
   }
-  
+
   // All gateways failed
   throw new Error('Failed to fetch from all IPFS gateways:\n' + errors.join('\n'))
 }

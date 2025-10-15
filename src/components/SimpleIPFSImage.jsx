@@ -1,4 +1,7 @@
 import React, { useState, useEffect } from 'react'
+import { isEncryptedData, decryptImage } from '../utils/decryption'
+
+const WACKER_PASSWORD = '***REMOVED***'; // Default password for Wacker COAs
 
 const SimpleIPFSImage = ({ src, alt, className, ...props }) => {
   const [finalSrc, setFinalSrc] = useState('')
@@ -16,7 +19,7 @@ const SimpleIPFSImage = ({ src, alt, className, ...props }) => {
 
     // Extract IPFS hash and convert to HTTP URL
     let httpUrl = src
-    
+
     if (src.includes('ipfs')) {
       // Extract hash from various IPFS formats
       const ipfsMatch = src.match(/(?:ipfs:\/\/|\/ipfs\/)([^/?]+)/)
@@ -27,10 +30,50 @@ const SimpleIPFSImage = ({ src, alt, className, ...props }) => {
       }
     }
 
-    setFinalSrc(httpUrl)
+    // Try to fetch and check if encrypted
+    fetchAndDecryptIfNeeded(httpUrl)
+  }, [src])
+
+  const fetchAndDecryptIfNeeded = async (url) => {
     setLoading(true)
     setError(false)
-  }, [src])
+
+    try {
+      console.log('📥 Fetching image data from:', url)
+      const response = await fetch(url)
+      if (!response.ok) {
+        throw new Error(`HTTP ${response.status}`)
+      }
+
+      const arrayBuffer = await response.arrayBuffer()
+      console.log('📦 Received image data:', arrayBuffer.byteLength, 'bytes')
+
+      // Check if data is encrypted
+      if (isEncryptedData(arrayBuffer)) {
+        console.log('🔐 Image is encrypted, decrypting...')
+        try {
+          const decryptedBlobUrl = await decryptImage(arrayBuffer, WACKER_PASSWORD)
+          console.log('✅ Image decrypted successfully')
+          setFinalSrc(decryptedBlobUrl)
+          setLoading(false)
+        } catch (decryptErr) {
+          console.error('❌ Image decryption failed:', decryptErr)
+          setError(true)
+          setLoading(false)
+        }
+      } else {
+        // Not encrypted, use original URL
+        console.log('📄 Image is not encrypted, using original URL')
+        setFinalSrc(url)
+        setLoading(true) // Let the img onLoad handler manage loading state
+      }
+    } catch (fetchErr) {
+      console.error('❌ Failed to fetch image:', fetchErr)
+      // Fallback to trying to load the image directly
+      setFinalSrc(url)
+      setLoading(true)
+    }
+  }
 
   const handleLoad = () => {
     console.log('✅ Image loaded successfully:', finalSrc)
