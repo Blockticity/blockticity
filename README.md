@@ -137,6 +137,46 @@ function batchMintURI(address[] recipients, string[] uris) external;
 
 ---
 
+## Blockchain Infrastructure & Indexing
+
+### OneSource Integration
+
+Blockticity leverages **OneSource** for enterprise-grade blockchain indexing and data infrastructure, providing real-time access to on-chain data through a customized GraphQL API.
+
+#### Key Capabilities
+
+**Data Indexing**
+- Real-time event tracking and indexing
+- Comprehensive token metadata storage
+- Complete transaction history
+- Continuous synchronization with Blockticity L1
+
+**GraphQL API Features**
+- Advanced querying by date, attributes, and metadata
+- Full-text search across COA fields
+- Case-sensitive and case-insensitive matching
+- Complex query combinations for precise data retrieval
+
+**Metadata Management**
+- Complete token metadata indexing
+- Attribute extraction and searchability
+- Image hosting with multiple thumbnail sizes
+- Programmatic access via JSON-RPC
+
+**Developer Tools**
+- Interactive GraphQL Playground
+- Comprehensive schema documentation
+- RESTful API endpoints
+- Support for multiple programming languages
+
+#### Use Cases
+- **COA Discovery**: Search certificates by client name, order ID, or transaction date
+- **Supply Chain Analytics**: Query historical transaction data across the entire chain
+- **Metadata Intelligence**: Extract and analyze COA attributes for insights
+- **Image Delivery**: Access certificate images in optimized formats
+
+---
+
 ## Technology Stack
 
 ### Frontend
@@ -358,6 +398,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - NVIDIA Inception Program for AI infrastructure support
 - Plug and Play Tech Center for accelerator mentorship
 - XDC Network for enterprise blockchain integration
+- OneSource for blockchain indexing infrastructure
 
 ---
 
