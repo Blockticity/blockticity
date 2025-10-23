@@ -11,7 +11,7 @@
 [![Avalanche](https://img.shields.io/badge/Avalanche-Fintech%20AI%20Grant-E84142)](https://www.avax.network/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-[Website](https://blockticity.io) • [Documentation](https://docs.blockticity.io) • [Explorer](https://subnets-test.avax.network/btest)
+[Website](https://blockticity.io) • [Documentation](https://docs.blockticity.io) • [Mainnet Explorer](https://subnets.avax.network/btic)
 
 </div>
 
@@ -94,6 +94,20 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 ---
 
 ## Blockticity L1 Network
+
+### Mainnet Details
+| Parameter | Value |
+|-----------|-------|
+| **Network Name** | Blockticity Mainnet |
+| **Chain ID** | 28530 |
+| **Token Symbol** | BTIC |
+| **Public RPC** | `https://subnets.avax.network/btic/mainnet/rpc` |
+| **Explorer** | [subnets.avax.network/btic](https://subnets.avax.network/btic) |
+| **L1 ID** | `2Ypm6RVhddu5Ps8DEbb35Y1PgX4uXE76yyxn6JMhnZy8ftAFLW` |
+| **Blockchain ID (Base58)** | `2pV5K35V1ohNSYhRU3z1Bud2oZys9bak7QYcmvbVvnieh4FJXc` |
+| **Blockchain ID (Hex)** | `0xef83b0d9bba20b6e5505a6578fb11e9038c38e506c36ec304e8a2d80c10d7561` |
+| **VM Type** | Subnet-EVM |
+| **VM ID** | `WFhfP7oheLK5k2GBSEhQEQbNannCxWzBbTEfzNr8dcrmDAWZb` |
 
 ### Testnet Details
 | Parameter | Value |
@@ -320,7 +334,8 @@ Industry Adoption ← Stakeholder Value ← More Token Utility
 
 - **Website**: [blockticity.io](https://blockticity.io)
 - **Documentation**: [docs.blockticity.io](https://docs.blockticity.io)
-- **Block Explorer**: [subnets-test.avax.network/btest](https://subnets-test.avax.network/btest)
+- **Mainnet Explorer**: [subnets.avax.network/btic](https://subnets.avax.network/btic)
+- **Testnet Explorer**: [subnets-test.avax.network/btest](https://subnets-test.avax.network/btest)
 - **Twitter**: [@blockticity](https://twitter.com/blockticity)
 - **LinkedIn**: [Blockticity](https://linkedin.com/company/blockticity)
 - **Email**: contact@blockticity.io
