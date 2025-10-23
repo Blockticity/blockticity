@@ -17,32 +17,32 @@
 
 ---
 
-## 🎯 Mission
+## Mission
 
 Enable **"Trustless Trade at Scale"** by creating a decentralized infrastructure for AI-native trade authentication. Blockticity serves as the blockchain authentication layer for global trade, making real-world documents verifiable, tamper-evident, and intelligent through our dedicated Layer 1 blockchain.
 
-## 🌟 Overview
+## Overview
 
 Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain documentation by providing a decentralized, standards-based system where:
 
-- ✅ **Certificates of Authenticity (COAs)** are minted as NFTs on Blockticity L1
-- 🔗 **Physical products** connect to digital records through secure QR codes
-- 🤖 **AI-powered analysis** (CoAi) detects inconsistencies and fraud
-- 🔒 **Verifiable metadata** enables regulatory compliance
-- 🌐 **Trustless verification** without centralized intermediaries
+- **Certificates of Authenticity (COAs)** are minted as NFTs on Blockticity L1
+- **Physical products** connect to digital records through secure QR codes
+- **AI-powered analysis** (CoAi) detects inconsistencies and fraud
+- **Verifiable metadata** enables regulatory compliance
+- **Trustless verification** without centralized intermediaries
 
-## 🏆 Key Achievements
+## Key Achievements
 
-- 📜 **ASTM D8558 Contributor** - First blockchain COA standard
-- 💰 **$1.2B+ in authenticated RWAs** across multiple sectors
-- 🎯 **750K+ COAs** minting target (June 2025)
-- 🏅 **Avalanche Fintech AI Innovation Grant** recipient ($150K)
-- 🚀 **NVIDIA Inception Program** member
-- 🔥 **Plug and Play XDC Enterprise RWA Accelerator** participant
+- **ASTM D8558 Contributor** - First blockchain COA standard
+- **$1.2B+ in authenticated RWAs** across multiple sectors
+- **750K+ COAs** minting target (June 2025)
+- **Avalanche Fintech AI Innovation Grant** recipient ($150K)
+- **NVIDIA Inception Program** member
+- **Plug and Play XDC Enterprise RWA Accelerator** participant
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 ┌────────────────────────────────────────────────────────────────────────────┐
@@ -93,7 +93,7 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 
 ---
 
-## 🔗 Blockticity L1 Network
+## Blockticity L1 Network
 
 ### Testnet Details
 | Parameter | Value |
@@ -120,7 +120,7 @@ function batchMintURI(address[] recipients, string[] uris) external;
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 ### Frontend
 - **Framework**: Vue 3 + Vite
@@ -147,7 +147,7 @@ function batchMintURI(address[] recipients, string[] uris) external;
 
 ---
 
-## 📦 System Modules
+## System Modules
 
 ### Core Repositories
 
@@ -165,7 +165,7 @@ function batchMintURI(address[] recipients, string[] uris) external;
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 ```bash
@@ -210,7 +210,7 @@ npm run build
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 ### Integration Flow
 ```
@@ -234,14 +234,14 @@ npm run build
 
 #### ASTM D8558 Implementation
 Blockticity is a contributor to **ASTM D8558**, the first blockchain COA standard, ensuring:
-- ✅ Tamper-evident design with immutable ledger entries
-- ✅ Multi-layer verification (tracing, authentication, validation, oversight)
-- ✅ International compliance (EU Regulation 2023/1115)
-- ✅ Industry consensus and interoperability
+- Tamper-evident design with immutable ledger entries
+- Multi-layer verification (tracing, authentication, validation, oversight)
+- International compliance (EU Regulation 2023/1115)
+- Industry consensus and interoperability
 
 ---
 
-## 🎨 Brand Guidelines
+## Brand Guidelines
 
 ### Colors
 ```css
@@ -257,37 +257,37 @@ Blockticity is a contributor to **ASTM D8558**, the first blockchain COA standar
 
 ---
 
-## 🔒 Security Features
+## Security Features
 
-- 🔐 **TLS 1.3** encryption for all traffic
-- 🛡️ **AWS WAF** with OWASP Top 10 rules
-- 🔑 **Secrets management** via AWS Secrets Manager
-- 📝 **Audit logging** with CloudTrail
-- 💾 **Automated backups** with 30-day retention
+- **TLS 1.3** encryption for all traffic
+- **AWS WAF** with OWASP Top 10 rules
+- **Secrets management** via AWS Secrets Manager
+- **Audit logging** with CloudTrail
+- **Automated backups** with 30-day retention
 
 ---
 
-## 🗺️ Roadmap
+## Roadmap
 
 ### Q2 2025
-- ✅ Testnet scaling to 500K+ COAs
-- 🎯 Mainnet launch with audited contracts
-- 🎯 750K+ COAs minting milestone
-- 🎯 Validator node sales
+- Testnet scaling to 500K+ COAs
+- Mainnet launch with audited contracts
+- 750K+ COAs minting milestone
+- Validator node sales
 
 ### Q3 2025
-- 🧠 CoAi MVP with anomaly detection (<2% anomaly rate)
-- 📊 Public trade intelligence dashboard
-- 🛠️ GPU-powered validators pilot (NVIDIA NIM containers)
+- CoAi MVP with anomaly detection (<2% anomaly rate)
+- Public trade intelligence dashboard
+- GPU-powered validators pilot (NVIDIA NIM containers)
 
 ### Q4 2025
-- 🎉 1M COAs milestone
-- 🚀 First decentralized AI inference execution
-- 🌐 Cross-industry insights platform
+- 1M COAs milestone
+- First decentralized AI inference execution
+- Cross-industry insights platform
 
 ---
 
-## 🤝 Strategic Partnerships
+## Strategic Partnerships
 
 <div align="center">
 
@@ -300,7 +300,7 @@ Blockticity is a contributor to **ASTM D8558**, the first blockchain COA standar
 
 ---
 
-## 📊 Network Effects & Value Flywheel
+## Network Effects & Value Flywheel
 
 ```
 More COAs Minted → Network Value ↑ → Enhanced Validator Activity
@@ -309,31 +309,31 @@ Industry Adoption ← Stakeholder Value ← More Token Utility
 ```
 
 ### Compounding Mechanisms
-- 📈 **Data Network Effects**: AI improves with transaction volume
-- 🔍 **Cross-industry Insights**: Pattern detection across sectors
-- 📐 **Standards Adoption**: Wider implementation = more utility
-- ⚡ **Validator Economics**: More transactions = better decentralization
+- **Data Network Effects**: AI improves with transaction volume
+- **Cross-industry Insights**: Pattern detection across sectors
+- **Standards Adoption**: Wider implementation = more utility
+- **Validator Economics**: More transactions = better decentralization
 
 ---
 
-## 📞 Contact & Resources
+## Contact & Resources
 
-- 🌐 **Website**: [blockticity.io](https://blockticity.io)
-- 📚 **Documentation**: [docs.blockticity.io](https://docs.blockticity.io)
-- 🔍 **Block Explorer**: [subnets-test.avax.network/btest](https://subnets-test.avax.network/btest)
-- 🐦 **Twitter**: [@blockticity](https://twitter.com/blockticity)
-- 💼 **LinkedIn**: [Blockticity](https://linkedin.com/company/blockticity)
-- 📧 **Email**: contact@blockticity.io
+- **Website**: [blockticity.io](https://blockticity.io)
+- **Documentation**: [docs.blockticity.io](https://docs.blockticity.io)
+- **Block Explorer**: [subnets-test.avax.network/btest](https://subnets-test.avax.network/btest)
+- **Twitter**: [@blockticity](https://twitter.com/blockticity)
+- **LinkedIn**: [Blockticity](https://linkedin.com/company/blockticity)
+- **Email**: contact@blockticity.io
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - ASTM International for standards collaboration
 - Avalanche Foundation for Fintech AI Innovation Grant
@@ -345,8 +345,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-### Built with ❤️ by the Blockticity Team
-
 **Trustless Trade at Scale**
+
+Built by the Blockticity Team
 
 </div>
