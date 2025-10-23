@@ -103,6 +103,9 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 | **Token Symbol** | BTIC |
 | **Public RPC** | `https://subnets.avax.network/btic/mainnet/rpc` |
 | **Explorer** | [subnets.avax.network/btic](https://subnets.avax.network/btic) |
+| **Contract Address** | `0x7D1955F814f25Ec2065C01B9bFc0AcC29B3f2926` |
+| **Owner/Minter Wallet** | `0xE2A506B43dF9c4e3B3c284F8cc18cF47Ac266929` |
+| **Contract Type** | BlockticityLayerZero (ERC-721) |
 | **L1 ID** | `2Ypm6RVhddu5Ps8DEbb35Y1PgX4uXE76yyxn6JMhnZy8ftAFLW` |
 | **Blockchain ID (Base58)** | `2pV5K35V1ohNSYhRU3z1Bud2oZys9bak7QYcmvbVvnieh4FJXc` |
 | **Blockchain ID (Hex)** | `0xef83b0d9bba20b6e5505a6578fb11e9038c38e506c36ec304e8a2d80c10d7561` |
