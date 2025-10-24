@@ -34,7 +34,7 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 ## Key Achievements
 
 - **ASTM D8558 Contributor** - First blockchain COA standard
-- **$1.2B+ in authenticated RWAs** across multiple sectors
+- **+$7B in authenticated RWAs** across multiple sectors
 - **750K+ COAs** minting target (June 2025)
 - **Avalanche Fintech AI Innovation Grant** recipient ($150K)
 - **NVIDIA Inception Program** member
