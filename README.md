@@ -2,7 +2,7 @@
 
 # Blockticity
 
-### Trustless Trade at Scale
+### Trusted Trade at Scale
 
 **Blockchain Authentication for Real-World Assets**
 
@@ -19,7 +19,7 @@
 
 ## Mission
 
-Enable **"Trustless Trade at Scale"** by creating a decentralized infrastructure for AI-native trade authentication. Blockticity serves as the blockchain authentication layer for global trade, making real-world documents verifiable, tamper-evident, and intelligent through our dedicated Layer 1 blockchain.
+Enable **"Trusted Trade at Scale"** by creating a decentralized infrastructure for AI-native trade authentication. Blockticity serves as the blockchain authentication layer for global trade, making real-world documents verifiable, tamper-evident, and intelligent through our dedicated Layer 1 blockchain.
 
 ## Overview
 
@@ -29,7 +29,8 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 - **Physical products** connect to digital records through secure QR codes
 - **AI-powered analysis** (CoAi) detects inconsistencies and fraud
 - **Verifiable metadata** enables regulatory compliance
-- **Trustless verification** without centralized intermediaries
+- **Independent verification** without centralized intermediaries
+- **GVE (Generative Visual Encoding)** creates tamper-evident, self-verifying certificates
 
 ## Key Achievements
 
@@ -39,6 +40,7 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 - **Avalanche Fintech AI Innovation Grant** recipient ($150K)
 - **NVIDIA Inception Program** member
 - **Plug and Play XDC Enterprise RWA Accelerator** participant
+- **Scan Telemetry System** - Real-time QR analytics via scan.blockticity.io
 
 ---
 
@@ -59,13 +61,13 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 │           │                         │                         │            │
 │           └─────────────────────────┴─────────────────────────┘            │
 │                                     │                                      │
-│                          ┌──────────▼──────────┐                          │
-│                          │   MINTING LAYER     │                          │
-│                          │                     │                          │
-│                          │ • L1 Minting        │                          │
-│                          │ • Gasless XDC       │                          │
-│                          │ • Cross-chain       │                          │
-│                          └──────────┬──────────┘                          │
+│  ┌─────────────────┐      ┌────────▼─────────┐      ┌──────────────────┐ │
+│  │  GVE Renderer   │      │   MINTING LAYER   │      │ Scan Telemetry  │ │
+│  │                 │      │                   │      │                  │ │
+│  │ • Quine Visuals │      │ • L1 Minting      │      │ • Geolocation    │ │
+│  │ • Hash Lattice  │      │ • Gasless XDC     │      │ • Device Detection│ │
+│  │ • Deterministic │      │ • Cross-chain     │      │ • Athena Analytics│ │
+│  └─────────────────┘      └────────┬─────────┘      └──────────────────┘ │
 │                                     │                                      │
 │           ┌─────────────────────────┴─────────────────────────┐           │
 │           │                                                   │           │
@@ -73,8 +75,8 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 │  │  Backend API    │      │  QR Redirect    │      │  COA Viewer     │  │
 │  │                 │      │    Server       │      │   Frontend      │  │
 │  │ • NFT Claims    │      │ • Dynamic URLs  │      │ • Vue.js SPA    │  │
-│  │ • Express.js    │      │ • Redis Cache   │      │ • COA Display   │  │
-│  │ • Port 3002     │      │ • Port 3000     │      │ • Port 3001     │  │
+│  │ • Express.js    │      │ • Telemetry     │      │ • COA Display   │  │
+│  │ • Port 3002     │      │ • SNS Alerts    │      │ • Port 3001     │  │
 │  └────────┬────────┘      └────────┬────────┘      └────────┬────────┘  │
 │           │                         │                         │            │
 │           └─────────────────────────┴─────────────────────────┘            │
@@ -85,11 +87,37 @@ Blockticity solves the **$4.5 trillion problem** of fraudulent supply chain docu
 │                          │ • Blockticity L1    │                          │
 │                          │ • IPFS (Pinata)     │                          │
 │                          │ • PostgreSQL DB     │                          │
-│                          │ • Redis Cache       │                          │
+│                          │ • AWS (S3/Athena)   │                          │
 │                          └─────────────────────┘                          │
 │                                                                            │
 └────────────────────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## Core Innovations
+
+### GVE: Generative Visual Encoding
+
+Our proprietary **GVE (Generative Visual Encoding)** system creates COAs where the certificate's visual appearance is mathematically derived from its verification data:
+
+- **Quine Title Bar**: Verification data encoded as micro-text texture, readable at 400% zoom
+- **Verification Lattice**: 16x8 grid with fill pattern determined by content hash bits
+- **Fingerprint Bar**: 32-bar waveform visualizing SHA-256 hash bytes
+- **Deterministic Rendering**: Same inputs always produce pixel-perfect identical output
+
+**Key Benefit**: Any data tampering produces a detectably different visual. The certificate doesn't just *have* verification data—it *is* verification data.
+
+### Scan Telemetry System
+
+Real-time analytics infrastructure capturing comprehensive data for every QR code scan:
+
+- **Endpoint**: scan.blockticity.io
+- **Geolocation**: Country, region, city, coordinates via IP lookup
+- **Device Detection**: Mobile/tablet/desktop/bot classification
+- **Network Intelligence**: ISP, ASN, mobile network, VPN detection
+- **Analytics**: Athena SQL queries for dashboards and anomaly detection
+- **Alerts**: Real-time SNS email notifications
 
 ---
 
@@ -202,6 +230,12 @@ Blockticity leverages **OneSource** for enterprise-grade blockchain indexing and
 - **Framework**: Python + Gradio
 - **Capabilities**: Trust scoring, fraud detection, anomaly detection
 
+### Analytics
+- **Telemetry**: AWS Lambda + API Gateway + Kinesis Firehose
+- **Storage**: S3 with lifecycle policies
+- **Queries**: Athena + Glue Data Catalog
+- **Alerts**: SNS email notifications
+
 ---
 
 ## System Modules
@@ -213,7 +247,7 @@ Blockticity leverages **OneSource** for enterprise-grade blockchain indexing and
 | **blockticity-backend** | Express.js API server for NFT claims | Node.js, Express |
 | **blockticity-minting** | Smart contract development & deployment | Hardhat, Solidity |
 | **blockticity-l1-minting** | L1 blockchain minting functionality | ethers.js, IPFS |
-| **blockticity-coa-viewer** | COA display frontend (this repo) | Vue 3, Vite |
+| **blockticity-coa-viewer** | COA display frontend | Vue 3, Vite |
 | **blockticity-qr-generator** | Batch QR code generation | Node.js, QR libraries |
 | **blockticity-qr-redirect** | Dynamic QR routing server | Express, Redis |
 | **blockticity-coai-verifier** | AI-powered COA verification | Python, Gradio |
@@ -277,13 +311,16 @@ npm run build
 2. Metadata Processing
    └─► JSON generation → IPFS upload → Returns hash
 
-3. NFT Minting
+3. GVE Rendering
+   └─► Deterministic COA visual generation from metadata
+
+4. NFT Minting
    └─► L1 script calls mintURI() → Links IPFS to token
 
-4. QR Code Activation
-   └─► User scans → Redirect server → COA Viewer
+5. QR Code Activation
+   └─► User scans → Telemetry capture → COA Viewer
 
-5. AI Verification
+6. AI Verification
    └─► CoAi analyzes metadata → Trust score → Flag issues
 ```
 
@@ -321,6 +358,7 @@ Blockticity is a contributor to **ASTM D8558**, the first blockchain COA standar
 - **Secrets management** via AWS Secrets Manager
 - **Audit logging** with CloudTrail
 - **Automated backups** with 30-day retention
+- **AES-256-GCM** encryption for sensitive metadata
 
 ---
 
@@ -404,7 +442,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**Trustless Trade at Scale**
+**Trusted Trade at Scale**
 
 Built by the Blockticity Team
 
