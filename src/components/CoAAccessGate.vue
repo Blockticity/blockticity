@@ -91,7 +91,12 @@ const checkPasskey = () => {
   const config = accessConfig[props.tokenId] || accessConfig["default"];
   tried.value = true;
 
-  if (passkeyInput.value === config.passkey) {
+  // Resolve "ENV" to the actual environment variable
+  const expectedPasskey = config.passkey === "ENV"
+    ? import.meta.env.VITE_WACKER_PASSWORD
+    : config.passkey;
+
+  if (passkeyInput.value === expectedPasskey) {
     unlocked.value = true;
     valid.value = true;
   } else {

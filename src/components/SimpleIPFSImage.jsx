@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react'
 import { isEncryptedData, decryptImage } from '../utils/decryption'
 
-const WACKER_PASSWORD = '***REMOVED***'; // Default password for Wacker COAs
+const WACKER_PASSWORD = import.meta.env.VITE_WACKER_PASSWORD || null;
 
 const SimpleIPFSImage = ({ src, alt, className, ...props }) => {
   const [finalSrc, setFinalSrc] = useState('')

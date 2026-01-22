@@ -113,9 +113,9 @@ export const resolveIPFSUrl = (uri) => {
  * Supports both plain JSON and encrypted metadata
  */
 export const fetchMetadataFromURI = async (uri, password = null) => {
-  // Auto-decrypt for Wacker tokens with known password
+  // Auto-decrypt for Wacker tokens using environment variable
   if (!password) {
-    password = '***REMOVED***'; // Default password for encrypted Wacker COAs
+    password = import.meta.env.VITE_WACKER_PASSWORD || null;
   }
   // Check cache first (only for non-encrypted or already decrypted)
   const cached = getCachedMetadata(uri)
